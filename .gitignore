@@ -1,0 +1,15 @@
+/app/build
+/gen
+/.idea
+/.gradle
+/build
+/gradle
+/app/.DS_Store
+*/.DS_Store
+/local.properties
+/dressKenny.iml
+/gradlew
+/gradlew.bat
+.DS_Store
+*/*.iml
+/captures
